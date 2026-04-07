@@ -4,7 +4,6 @@
     chosen {
         zmk,kscan = &kscan0;
         zmk,matrix-transform = &default_transform;
-        // This is the line the error is looking for:
         zmk,physical-layout = &physical_layout0;
     };
 
