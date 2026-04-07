@@ -3,4 +3,4 @@ if SHIELD_CHITTAWITHPEESE
 config ZMK_KEYBOARD_NAME
     default "chittawithpeese"
 
-end if
+endif
